@@ -1,7 +1,7 @@
-# FFXIV_JOB_ICONS
+# Final Fantasy XIV Job SVG Icons
 
 ###### Copyright
-> Please read the license, if you using this icons.
+> Please read the license.
 
 ###### Final Fantasy® XIV Copyright
 ```
